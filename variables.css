@@ -1,0 +1,15 @@
+:root {
+    --border-radius: 25px;
+
+    --color-1: #f7b731;
+    --color-2: #fed330;
+    --color-3: #272d34;
+    --color-4: #d1d8e0;
+
+    --background-color: var(--color-2);
+    --background-color-2: var(--color-3);
+    --foregroud-color: var(--color-3);
+    --text-color: #FFF;
+
+    --main-grid: minmax(2rem,1fr) minmax(0,1180px) minmax(2rem,1fr);
+}
