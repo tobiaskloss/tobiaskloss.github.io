@@ -147,6 +147,7 @@ body {
     width: 100%;
     padding: 25px 0;
     top: 0;
-    font-size: 4rem;
+    font-size: 3rem;
     color: var(--color-2);
+    background-color: var(--color-3);
 }
